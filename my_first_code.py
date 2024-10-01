@@ -15,4 +15,4 @@ print( 3 % 2)
 print( 9 // 3)
 print( 8 // 3)
 
-"git init"
+print(" welcome to l4 programming")
